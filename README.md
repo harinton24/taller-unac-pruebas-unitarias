@@ -6,6 +6,14 @@ Taller de pruebas unitarias UNAC
 Harinton David Ariza Vargas
 Yuletsy Paola Pabon FLorez
 
+# pasos para correr el proyecto
+   npm i jest
+   npm i ts-jest
+   npm i @types/jest
+   npm i -D typescript
+   git checkout -b feature/nombre_feature
+   npm test
+
 # mean array test
   En esta prueba se verifico la suma de los elementos de un arreglo dividido en la longitud del mismo. 
   Ejemplo: 5 + 4 = 4.5

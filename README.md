@@ -13,6 +13,9 @@ Yuletsy Paola Pabon FLorez
   # npm i -D typescript
   # git checkout -b feature/nombre_feature
   # npm test
+
+  
+# Pruebas unitarias 
 # Monts Unac Test
  En esta prueba se realizaron 4 test donde se verificaba si se contenia un mes o por el contrario si no se contenia una String en especifico.
 # Sum Array Test
